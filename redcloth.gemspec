@@ -41,7 +41,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency('bundler', '> 1.3.4')
   s.add_development_dependency('rake', '~> 10.0.3')
   s.add_development_dependency('rspec', '~> 2.4')
-  s.add_development_dependency('diff-lcs', '~> 1.1.2')
+  s.add_development_dependency('diff-lcs', '~> 1.2.5')
 
   s.license = "MIT"
 end
